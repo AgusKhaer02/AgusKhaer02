@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agus Kurniadin Khaer</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇲🇨</h3>
 
+- 🏢 currently Working at **PT Lauwba Techno Indonesia**
 - 🔭 I’m currently focusing on **Multi-App Development**
 
 - 🌱 I’m currently learning **Flutter, CodeIgniter 4**
