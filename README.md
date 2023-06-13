@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Agus Kurniadin Khaer</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇲🇨</h3>
 
+--
+Personal Website
+<a href="http://aguskhaer.com">Personal Web</a>
+<a href="http://blog.aguskhaer.com">Personal Blog</a>
+
+
+
 - 🏢 currently Working at **PT Lauwba Techno Indonesia**
 - 🔭 I’m currently focusing on **Multi-App Development**
 
