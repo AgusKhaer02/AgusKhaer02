@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agus Kurniadin Khaer</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇲🇨</h3>
 
---
-Personal Website
-<a href="http://aguskhaer.com">Personal Web</a>
+<h4>Personal Website</h4>
+<hr>
+<a href="http://aguskhaer.com">Personal Web</a> <br>
 <a href="http://blog.aguskhaer.com">Personal Blog</a>
 
 
