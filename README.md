@@ -4,7 +4,7 @@
 - 🏢 currently Working at **PT Lauwba Techno Indonesia**
 - 🔭 I’m currently focusing on **Multi-App Development**
 
-- 🌱 I’m currently learning **Flutter, CodeIgniter 4**
+- 🌱 I’m currently learning **Flutter, CodeIgniter 4, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AgusKhaer02](https://github.com/AgusKhaer02)
 
