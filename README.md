@@ -3,8 +3,8 @@
 
 <h4>Personal Website</h4>
 <hr>
-<a href="http://aguskhaer.com">Personal Web</a> <br>
-<a href="http://blog.aguskhaer.com">Personal Blog</a>
+<a href="http://aguskhaer.com">aguskhaer.com</a> <br>
+<a href="http://blog.aguskhaer.com">blog.aguskhaer.com</a>
 
 
 
