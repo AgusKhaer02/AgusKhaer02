@@ -1,4 +1,4 @@
-<img src="https://github.com/AgusKhaer02/AgusKhaer02/blob/main/psd-dude-scrolling-text.gif?raw=true" width="40" height="40"/>
+<img src="https://github.com/AgusKhaer02/AgusKhaer02/blob/main/psd-dude-scrolling-text.gif?raw=true" style="width:100vw;" height="300"/>
 
 <h1 align="center">Hi 👋, I'm Agus Kurniadin Khaer</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇲🇨</h3>
