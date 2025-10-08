@@ -1,5 +1,8 @@
+<img src="https://www.psd-dude.com/scrolling-text/#mgi5slmz" width="40" height="40"/>
+
 <h1 align="center">Hi 👋, I'm Agus Kurniadin Khaer</h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇲🇨</h3>
+
 
 <h4>Personal Website</h4>
 <hr>
